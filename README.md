@@ -15,24 +15,24 @@ GPT-4 with self-correction outperformed all other GPT models in terms of factual
 - [Natural Language Explanations for Explainable AI Systems using Large Language Models with Self-correcting Architectures](research-paper.pdf)
 
 ## Code
-- [Prepare](code/Prepare/) - contains the data pre-processing scripts
-- [Explain](code/Explain/) - contains the rule- and gpt-based explainers
-- [Correct](code/Correct/) - contains the gpt-based verifier and corrector
-- [Evaluate](code/Evaluate/) - contains the performance evaluation scripts
-- [Analyze](code/Analyze/) - contains the performance, runtime, and cost analysis
+- [Prepare](Code/Prepare/) - contains the data pre-processing scripts
+- [Explain](Code/Explain/) - contains the rule- and gpt-based explainers
+- [Correct](Code/Correct/) - contains the gpt-based verifier and corrector
+- [Evaluate](Code/Evaluate/) - contains the performance evaluation scripts
+- [Analyze](Code/Analyze/) - contains the performance, runtime, and cost analysis
 
 ## Data
-- [Source](data/Source/) - contains the source COMPAS Synthetic data
-- [Prepared](data/Prepared/) - contains the pre-processed data
-- [Prompts](data/Prompts/) - contains the GPT system prompts
-- [Templates](data/Templates/) - contains templates for rule- and GPT-based tasks
-- [Examples](data/Examples/) - contains the few-shot learning examples
-- [Cases](data/Cases/) - contains the plain-text case records
-- [Explainations](data/Explanations/) - contains the generated explainations
-- [Verifications](data/Verifications/) - contains the verifications for each explaination
-- [Errors](data/Errors) - contains the factual error identified in each verification
-- [Corrections](data/Corrections/) - contains the corrected explainations
-- [Results](data/Results/) - contains the results of the model evalaluation
+- [Source](Data/Source/) - contains the source COMPAS Synthetic data
+- [Prepared](Data/Prepared/) - contains the pre-processed data
+- [Prompts](Data/Prompts/) - contains the GPT system prompts
+- [Templates](Data/Templates/) - contains templates for rule- and GPT-based tasks
+- [Examples](Data/Examples/) - contains the few-shot learning examples
+- [Cases](Data/Cases/) - contains the plain-text case records
+- [Explainations](Data/Explanations/) - contains the generated explainations
+- [Verifications](Data/Verifications/) - contains the verifications for each explaination
+- [Errors](Data/Errors) - contains the factual error identified in each verification
+- [Corrections](Data/Corrections/) - contains the corrected explainations
+- [Results](Data/Results/) - contains the results of the model evalaluation
 
 ## Analysis
 - [CSV](Analysis/CSV/) - contains analysis output in tabular form
