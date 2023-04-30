@@ -1,0 +1,8 @@
+# Errors
+noncompliance_level: low -> medium
+social_environment_level: low -> high
+vocational_level: low -> medium
+family_criminality_importance_level: high -> low
+financial_problems_importance_level: high -> low
+substance_abuse_importance_level: medium -> high
+noncompliance_importance_level: low -> high

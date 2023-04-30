@@ -1,0 +1,27 @@
+Michael,
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #10811, you had a COMPAS risk score of 5 on a scale of 1-10. This means you were scored as a medium risk for reoffending.
+
+You received this score primarily because you had a high risk score for criminal attitude (8) and a high risk score for noncompliance (6). These were the two most important factors in receiving a medium overall risk score.
+
+You also had a medium risk score for substance abuse (5). However, this factor only contributed medium importance to the COMPAS algorithm's scoring of your overall risk.
+
+The remaining risk factors including financial problems (7), social environment risk (6), and vocational risk factors (7), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+
+# Corrections
+- Line 22: Fixed social_environment_level: medium -> high
+- Line 23: Fixed criminal_attitude_importance_level: high -> low
+- Line 24: Fixed criminal_associates_importance_level: low -> medium
+
+The social_environment_level was corrected from medium to high because it had a medium importance level in the feature importance levels section.
+The criminal_attitude_importance_level was corrected from high to low because it had a low importance level in the feature importance levels section.
+The criminal_associates_importance_level was corrected from low to medium because it had a medium importance level in the feature importance levels section.

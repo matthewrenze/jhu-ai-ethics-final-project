@@ -1,0 +1,4 @@
+# Errors
+criminal_associates_level: medium -> high
+criminal_attitude_importance_level: high -> low
+noncompliance_importance_level: low -> high

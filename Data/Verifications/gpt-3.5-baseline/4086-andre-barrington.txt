@@ -1,0 +1,44 @@
+# Case Info
+id: 4086
+name: andre
+decile_score: 10
+decile_score_level: high
+
+# Features
+priors_count: 13
+c_charge_degree:
+juv_fel_count:
+family_criminality:
+criminal_attitude:
+criminal_associates: 7
+financial_problems: 5
+substance_abuse: 5
+noncompliance: 9
+social_environment:
+vocational: 4
+
+# Feature Levels
+priors_count_level: high
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level:
+criminal_attitude_level:
+criminal_associates_level: medium
+financial_problems_level: medium
+substance_abuse_level: medium
+noncompliance_level: high
+social_environment_level:
+vocational_level: low
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+substance_abuse_importance_level: medium
+priors_count_importance_level: medium
+criminal_associates_importance_level: low
+financial_problems_importance_level: low
+vocational_importance_level: low
+social_environment_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+criminal_attitude_importance_level: low

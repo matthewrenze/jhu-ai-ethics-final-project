@@ -1,0 +1,5 @@
+# Errors
+criminal_attitude_level: medium -> high
+vocational_level: low -> medium
+family_criminality_importance_level: high -> low
+criminal_attitude_importance_level: medium -> low

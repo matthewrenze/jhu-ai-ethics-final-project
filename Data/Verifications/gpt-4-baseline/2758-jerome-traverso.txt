@@ -1,0 +1,44 @@
+# Case Info
+id: 2758
+name: jerome
+decile_score: 2
+decile_score_level: low
+
+# Features
+priors_count: 0
+c_charge_degree:
+juv_fel_count:
+family_criminality:
+criminal_attitude:
+criminal_associates: 3
+financial_problems: 4
+substance_abuse: 3
+noncompliance: 5
+social_environment: 4
+vocational:
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level:
+criminal_attitude_level:
+criminal_associates_level: low
+financial_problems_level: medium
+substance_abuse_level: low
+noncompliance_level: medium
+social_environment_level: medium
+vocational_level:
+
+# Feature Importance
+substance_abuse_importance_level: high
+noncompliance_importance_level: high
+criminal_associates_importance_level: high
+social_environment_importance_level: low
+priors_count_importance_level: low
+financial_problems_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+criminal_attitude_importance_level: low
+vocational_importance_level: low

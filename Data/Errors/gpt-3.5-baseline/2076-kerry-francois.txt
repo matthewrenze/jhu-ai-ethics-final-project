@@ -1,0 +1,6 @@
+# Errors
+priors_count_level: medium -> high
+family_criminality_level: medium -> high
+criminal_attitude_level: medium -> high
+vocational_level: low -> medium
+substance_abuse_importance_level: high -> medium

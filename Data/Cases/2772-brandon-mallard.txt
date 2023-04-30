@@ -1,0 +1,45 @@
+# Case Info
+id: 2772
+name: brandon mallard
+decile_score: 8
+decile_score_level: high
+
+# Features
+priors_count: 2
+c_charge_degree: M
+juv_fel_count: 0
+family_criminality: 7
+criminal_attitude: 4
+criminal_associates: 9
+financial_problems: 3
+substance_abuse: 5
+noncompliance: 8
+social_environment: 4
+vocational: 9
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level: low
+juv_fel_count_level: low
+family_criminality_level: high
+criminal_attitude_level: medium
+criminal_associates_level: high
+financial_problems_level: low
+substance_abuse_level: medium
+noncompliance_level: high
+social_environment_level: medium
+vocational_level: high
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+criminal_associates_importance_level: medium
+substance_abuse_importance_level: medium
+vocational_importance_level: low
+financial_problems_importance_level: low
+priors_count_importance_level: low
+social_environment_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+criminal_attitude_importance_level: low
+

@@ -1,0 +1,7 @@
+# Errors
+family_criminality_importance_level: high -> low
+criminal_attitude_importance_level: medium -> low
+criminal_associates_importance_level: low -> medium
+substance_abuse_importance_level: low -> high
+noncompliance_importance_level: low -> high
+social_environment_importance_level: high -> low

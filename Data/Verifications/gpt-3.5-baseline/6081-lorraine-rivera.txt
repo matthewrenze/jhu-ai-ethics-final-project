@@ -1,0 +1,44 @@
+# Case Info
+id: 6081
+name: lorraine
+decile_score: 5
+decile_score_level: medium
+
+# Features
+priors_count: 3
+c_charge_degree:
+juv_fel_count:
+family_criminality:
+criminal_attitude: 7
+criminal_associates: 5
+financial_problems: 7
+substance_abuse: 6
+noncompliance: 7
+social_environment: 6
+vocational:
+
+# Feature Levels
+priors_count_level: medium
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level:
+criminal_attitude_level: high
+criminal_associates_level: medium
+financial_problems_level: medium
+substance_abuse_level: medium
+noncompliance_level: high
+social_environment_level: medium
+vocational_level:
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+substance_abuse_importance_level: medium
+criminal_associates_importance_level: medium
+social_environment_importance_level: low
+priors_count_importance_level: low
+criminal_attitude_importance_level: medium
+financial_problems_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+vocational_importance_level: low

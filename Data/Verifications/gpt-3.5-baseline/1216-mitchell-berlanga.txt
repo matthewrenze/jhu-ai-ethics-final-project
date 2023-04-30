@@ -1,0 +1,44 @@
+# Case Info
+id: 1216
+name: mitchell
+decile_score: 6
+decile_score_level: high
+
+# Features
+priors_count: 2
+c_charge_degree:
+juv_fel_count:
+family_criminality: 8
+criminal_attitude: 4
+criminal_associates:
+financial_problems: 5
+substance_abuse: 6
+noncompliance: 5
+social_environment:
+vocational:
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level: high
+criminal_attitude_level: medium
+criminal_associates_level:
+financial_problems_level: medium
+substance_abuse_level: high
+noncompliance_level: medium
+social_environment_level:
+vocational_level:
+
+# Feature Importance Levels
+family_criminality_importance_level: high
+substance_abuse_importance_level: high
+criminal_attitude_importance_level: medium
+priors_count_importance_level: low
+financial_problems_importance_level: low
+noncompliance_importance_level: low
+social_environment_importance_level: low
+criminal_associates_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+vocational_importance_level: low

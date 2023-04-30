@@ -1,0 +1,2 @@
+# Errors
+financial_problems_importance_level: low -> medium

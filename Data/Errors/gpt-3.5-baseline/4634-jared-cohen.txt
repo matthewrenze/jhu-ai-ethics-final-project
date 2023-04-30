@@ -1,0 +1,8 @@
+# Errors
+c_charge_degree_level: medium -> low
+financial_problems_level: low -> medium
+vocational_level: medium -> high
+c_charge_degree_importance_level: medium -> low
+family_criminality_importance_level: medium -> low
+criminal_associates_importance_level: medium -> low
+noncompliance_importance_level: medium -> high

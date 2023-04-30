@@ -1,0 +1,44 @@
+# Case Info
+id: 3546
+name: richard
+decile_score: 2
+decile_score_level: low
+
+# Features
+priors_count: 0
+c_charge_degree:
+juv_fel_count:
+family_criminality: 5
+criminal_attitude: 7
+criminal_associates: 4
+financial_problems: 6
+substance_abuse:
+noncompliance:
+social_environment: 5
+vocational:
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level: medium
+criminal_attitude_level: high
+criminal_associates_level: medium
+financial_problems_level: medium
+substance_abuse_level:
+noncompliance_level:
+social_environment_level: medium
+vocational_level:
+
+# Feature Importance Levels
+criminal_attitude_importance_level: high
+family_criminality_importance_level: high
+criminal_associates_importance_level: medium
+financial_problems_importance_level: low
+priors_count_importance_level: low
+social_environment_importance_level: low
+substance_abuse_importance_level: low
+noncompliance_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+vocational_importance_level: low

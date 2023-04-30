@@ -1,0 +1,25 @@
+Rabe,
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #9659, you had a COMPAS risk score of 4 on a scale of 1-10. This means you were scored as a medium risk for reoffending.
+
+You received this score primarily because you had a high risk score for criminal associates (6) and a medium risk score for noncompliance (5). These were the two most important factors in receiving a medium overall risk score.
+
+You also had a medium risk score for substance abuse (5). However, this factor only contributed medium importance to the COMPAS algorithm's scoring of your overall risk.
+
+The remaining risk factors including financial problems (3), c_charge_degree (M), and social environment risk (3), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+
+# Corrections
+- Line 31: Fixed c_charge_degree_level: medium -> low
+- Line 32: Fixed noncompliance_level: high -> medium
+- Line 39: Fixed c_charge_degree_importance_level: medium -> low
+
+I corrected the c_charge_degree_level from medium to low because Misdemeanor (M) is considered a low degree of charges. I corrected the noncompliance_level from high to medium because it was a medium risk factor. I corrected the c_charge_degree_importance_level from medium to low because it was of low importance to the COMPAS algorithm's score.

@@ -1,0 +1,8 @@
+# Errors
+family_criminality_level: low -> medium
+financial_problems_level: low -> medium
+vocational_level: low -> medium
+priors_count_importance_level: kendra -> low
+criminal_attitude_importance_level: high -> low
+criminal_associates_importance_level: medium -> low
+substance_abuse_importance_level: low -> high

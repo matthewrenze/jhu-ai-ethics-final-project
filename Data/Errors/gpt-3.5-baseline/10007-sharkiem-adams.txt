@@ -1,0 +1,5 @@
+# Errors
+family_criminality_level: low -> medium
+priors_count_importance_level: arkiem -> low
+criminal_attitude_importance_level: high -> low
+substance_abuse_importance_level: low -> high

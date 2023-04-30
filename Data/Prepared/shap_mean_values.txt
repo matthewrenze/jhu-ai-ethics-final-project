@@ -1,0 +1,11 @@
+noncompliance: 1.00000
+substance_abuse: 0.69492
+criminal_associates: 0.45899
+priors_count: 0.15665
+financial_problems: 0.13193
+vocational: 0.11637
+social_environment: 0.04450
+c_charge_degree: 0.00444
+juv_fel_count: 0.00008
+family_criminality: 0.00008
+criminal_attitude: 0.00000

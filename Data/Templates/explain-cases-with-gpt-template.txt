@@ -1,0 +1,18 @@
+[first-name],
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #[case-id], you had a COMPAS risk score of [decile-score] on a scale of 1-10. This means you were scored as a [high|medium|low] risk for reoffending.
+
+You received this score primarily because you had [low|medium|high] risk score for [highest-importance-feature] (score), a [low|medium|high] risk score for [2nd-highest-importance-feature] ([score]), and a [low|medium|high] risk score for [3rd-highest-importance-feature] ([score]). These were the [n] most important factors in receiving a [high|medium|low] overall risk score.
+
+You also had a [low|medium|high] risk score for [highest-medium-importance-features] ([score]), a [low|medium|high] risk score for [2nd-highest-medium-importance-features] ([score]), and a [low|medium|high] risk score for [3rd-highest-medium-importance-features] ([score]). However, [this factor|these factors] only contributed medium importance to the COMPAS algorithm's scoring of your overall risk.
+
+The remaining risk factors including [highest-low-risk-features] ([score]), [2nd-highest-low-risk-features] ([score]), [3rd-highest-low-risk-features] ([score]), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data (e.g. age, sex, race, etc.) were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI

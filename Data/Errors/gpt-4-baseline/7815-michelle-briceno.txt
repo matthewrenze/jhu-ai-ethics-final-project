@@ -1,0 +1,2 @@
+# Errors
+social_environment_level: medium -> high

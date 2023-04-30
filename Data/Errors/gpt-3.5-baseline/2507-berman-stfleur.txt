@@ -1,0 +1,4 @@
+# Errors
+noncompliance_level: high -> medium
+priors_count_importance_level: medium -> low
+criminal_attitude_importance_level: medium -> low

@@ -1,0 +1,4 @@
+# Errors
+priors_count_level: medium -> high
+noncompliance_level: high -> medium
+vocational_level: medium -> high

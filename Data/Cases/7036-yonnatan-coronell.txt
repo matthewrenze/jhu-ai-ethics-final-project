@@ -1,0 +1,45 @@
+# Case Info
+id: 7036
+name: yonnatan coronell
+decile_score: 1
+decile_score_level: low
+
+# Features
+priors_count: 0
+c_charge_degree: M
+juv_fel_count: 0
+family_criminality: 4
+criminal_attitude: 3
+criminal_associates: 3
+financial_problems: 6
+substance_abuse: 4
+noncompliance: 3
+social_environment: 5
+vocational: 5
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level: low
+juv_fel_count_level: low
+family_criminality_level: medium
+criminal_attitude_level: low
+criminal_associates_level: low
+financial_problems_level: high
+substance_abuse_level: medium
+noncompliance_level: low
+social_environment_level: medium
+vocational_level: medium
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+substance_abuse_importance_level: medium
+criminal_associates_importance_level: medium
+priors_count_importance_level: low
+financial_problems_importance_level: low
+social_environment_importance_level: low
+vocational_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+criminal_attitude_importance_level: low
+

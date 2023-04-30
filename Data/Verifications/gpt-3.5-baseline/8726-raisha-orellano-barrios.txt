@@ -1,0 +1,44 @@
+# Case Info
+id: 8726
+name: raisha
+decile_score: 4
+decile_score_level: medium
+
+# Features
+priors_count: 1
+c_charge_degree:
+juv_fel_count:
+family_criminality: 6
+criminal_attitude:
+criminal_associates: 4
+financial_problems:
+substance_abuse: 5
+noncompliance: 4
+social_environment:
+vocational: 5
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level: high
+criminal_attitude_level:
+criminal_associates_level: medium
+financial_problems_level:
+substance_abuse_level: medium
+noncompliance_level: high
+social_environment_level:
+vocational_level: low
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+family_criminality_importance_level: high
+criminal_associates_importance_level: medium
+substance_abuse_importance_level: low
+priors_count_importance_level: low
+vocational_importance_level: low
+financial_problems_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+criminal_attitude_importance_level: low
+social_environment_importance_level: low

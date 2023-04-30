@@ -1,0 +1,2 @@
+# Errors
+criminal_attitude_importance_level: medium -> low

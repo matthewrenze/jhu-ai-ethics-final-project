@@ -1,0 +1,19 @@
+# Case Info
+[key]: [value]
+
+# Features
+[feature]: [value]
+
+# Feature Levels
+[feature_level]: [low|medium|high]
+
+# Feature Importance Levels
+[feature_importance_level]: [low|medium|high]
+
+# Explanation
+[letter_of_explanation]
+
+# Errors:
+[feature]: [incorrect_value]
+[feature_level]: [incorrect_value]
+[feature_importance_level]: [incorrect_value]

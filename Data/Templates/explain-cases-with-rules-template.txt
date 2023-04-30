@@ -1,0 +1,19 @@
+{first_name},
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #{case_id}, you had a COMPAS risk score of {decile_score} on a scale of 1-10. This means you were scored as a {decile_score_level} risk for reoffending.
+
+You received this score primarily because you had {high_features}. {high_followup_sentence}
+
+You also had {medium_features}. {medium_followup_sentence}
+
+The remaining risk factors including {low_features}, etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+

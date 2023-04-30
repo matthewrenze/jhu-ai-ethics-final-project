@@ -1,0 +1,5 @@
+# Errors
+noncompliance_level: high -> medium
+family_criminality_importance_level: high -> low
+criminal_associates_importance_level: low -> high
+vocational_importance_level: high -> low

@@ -1,0 +1,6 @@
+# Errors
+family_criminality_level: low -> medium
+financial_problems_level: low -> medium
+social_environment_level: low -> medium
+vocational_level: low -> high
+criminal_attitude_importance_level: high -> low

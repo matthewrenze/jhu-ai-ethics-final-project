@@ -1,0 +1,3 @@
+# Errors
+criminal_associates_level: medium -> low
+financial_problems_level: medium -> high

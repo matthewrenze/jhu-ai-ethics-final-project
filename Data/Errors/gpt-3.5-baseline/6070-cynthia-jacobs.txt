@@ -1,0 +1,6 @@
+# Errors
+social_environment_level: low -> medium
+vocational_level: low -> high
+criminal_attitude_importance_level: high -> low
+substance_abuse_importance_level: low -> high
+noncompliance_importance_level: low -> high

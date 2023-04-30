@@ -1,0 +1,4 @@
+# Errors
+c_charge_degree_level: medium -> low
+noncompliance_level: high -> medium
+c_charge_degree_importance_level: medium -> low

@@ -1,0 +1,8 @@
+# Errors
+priors_count_level: medium -> high
+family_criminality_level: low -> medium
+criminal_attitude_level: low -> medium
+financial_problems_level: low -> medium
+noncompliance_level: high -> medium
+social_environment_level: low -> high
+vocational_level: low -> high

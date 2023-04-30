@@ -1,0 +1,4 @@
+# Errors
+priors_count_level: medium -> low
+financial_problems_level: medium -> high
+substance_abuse_importance_level: high -> medium

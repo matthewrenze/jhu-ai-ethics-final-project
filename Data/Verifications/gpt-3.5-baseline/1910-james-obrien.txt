@@ -1,0 +1,44 @@
+# Case Info
+id: 1910
+name: james
+decile_score: 1
+decile_score_level: low
+
+# Features
+priors_count: 3
+c_charge_degree:
+juv_fel_count:
+family_criminality: 4
+criminal_attitude:
+criminal_associates:
+financial_problems:
+substance_abuse: 3
+noncompliance: 5
+social_environment: 10
+vocational: 4
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level: low
+criminal_attitude_level:
+criminal_associates_level:
+financial_problems_level:
+substance_abuse_level: low
+noncompliance_level: high
+social_environment_level: high
+vocational_level: low
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+substance_abuse_importance_level: medium
+social_environment_importance_level: high
+priors_count_importance_level: low
+family_criminality_importance_level: low
+vocational_importance_level: low
+criminal_associates_importance_level: low
+financial_problems_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+criminal_attitude_importance_level: low

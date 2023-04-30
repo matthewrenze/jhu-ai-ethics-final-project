@@ -1,0 +1,4 @@
+# Errors
+financial_problems_level: low -> medium
+criminal_attitude_importance_level: high -> low
+substance_abuse_importance_level: high -> medium

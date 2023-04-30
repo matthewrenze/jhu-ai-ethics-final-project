@@ -1,0 +1,6 @@
+# Errors
+family_criminality_level: low -> medium
+financial_problems_level: medium -> high
+substance_abuse_level: medium -> high
+social_environment_level: low -> medium
+substance_abuse_importance_level: high -> medium

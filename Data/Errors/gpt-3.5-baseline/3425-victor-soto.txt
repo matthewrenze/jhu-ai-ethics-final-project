@@ -1,0 +1,6 @@
+# Errors
+priors_count_level: medium -> high
+substance_abuse_level: medium -> high
+criminal_attitude_importance_level: medium -> low
+criminal_associates_importance_level: high -> medium
+substance_abuse_importance_level: low -> medium

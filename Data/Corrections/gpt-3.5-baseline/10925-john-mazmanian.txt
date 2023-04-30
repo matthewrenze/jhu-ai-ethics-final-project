@@ -1,0 +1,38 @@
+John,
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #10925, you had a COMPAS risk score of 2 on a scale of 1-10. This means you were scored as a low risk for reoffending.
+
+You received this score primarily because you had a high risk score for criminal attitude (7) and a medium risk score for substance abuse (4). These were the two most important factors in receiving a low overall risk score.
+
+You also had a medium risk score for criminal associates (5). However, this factor only contributed low importance to the COMPAS algorithm's scoring of your overall risk.
+
+The remaining risk factors including financial problems (4), number of prior offenses (3), and social environment risk (3), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+
+# Corrections
+- Line 1: Fixed name: john mazmanian -> John Mazmanian
+- Line 8: Fixed substance_abuse_level: medium -> low
+- Line 9: Fixed social_environment_level: low -> medium
+- Line 10: Fixed vocational_level: low -> medium
+- Line 11: Fixed priors_count_level: medium -> low
+- Line 12: Fixed financial_problems_level: low -> medium
+- Line 13: Fixed criminal_attitude_importance_level: high -> low
+- Line 14: Fixed noncompliance_importance_level: low -> high
+
+# Explanation
+- Fixed the capitalization of the name in line 1.
+- Fixed the substance_abuse_level in line 8 from medium to low.
+- Fixed the social_environment_level in line 9 from low to medium.
+- Fixed the vocational_level in line 10 from low to medium.
+- Fixed the priors_count_level in line 11 from medium to low.
+- Fixed the financial_problems_level in line 12 from low to medium.
+- Fixed the criminal_attitude_importance_level in line 13 from high to low.
+- Fixed the noncompliance_importance_level in line 14 from low to high.

@@ -1,0 +1,38 @@
+Andrew,
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #2759, you had a COMPAS risk score of 7 on a scale of 1-10. This means you were scored as a high risk for reoffending.
+
+You received this score primarily because you had a high risk score for noncompliance (7) and a high risk score for criminal associates (7). These were the two most important factors in receiving a high overall risk score.
+
+You also had a medium risk score for substance abuse (4). However, this factor only contributed medium importance to the COMPAS algorithm's scoring of your overall risk.
+
+The remaining risk factors including vocational risk factors (7), number of prior offenses (6), and high criminal attitude risk (6), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+
+# Corrections
+- Line 3: Fixed decile_score_level: high -> low
+- Line 10: Fixed noncompliance_level: high -> 7
+- Line 11: Fixed substance_abuse_level: medium -> 4
+- Line 14: Fixed criminal_associates_level: medium -> high
+- Line 15: Fixed priors_count_level: medium -> high
+- Line 16: Fixed criminal_attitude_level: medium -> high
+- Line 17: Fixed vocational_level: medium -> high
+- Line 22: Fixed criminal_associates_importance_level: high -> medium
+
+# Explanation
+- The decile_score_level was corrected from high to low to match the decile_score of 7.
+- The noncompliance_level was corrected from high to 7 to match the value in the Features section.
+- The substance_abuse_level was corrected from medium to 4 to match the value in the Features section.
+- The criminal_associates_level was corrected from medium to high to match the Feature Importance Levels section.
+- The priors_count_level was corrected from medium to high to match the Features section.
+- The criminal_attitude_level was corrected from medium to high to match the Feature Levels section.
+- The vocational_level was corrected from medium to high to match the Feature Levels section.
+- The criminal_associates_importance_level was corrected from high

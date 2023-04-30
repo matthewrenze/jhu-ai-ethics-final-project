@@ -1,0 +1,5 @@
+# Errors
+financial_problems_level: medium -> high
+social_environment_level: low -> medium
+vocational_level: medium -> high
+substance_abuse_importance_level: high -> medium

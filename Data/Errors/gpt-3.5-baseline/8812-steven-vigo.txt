@@ -1,0 +1,7 @@
+# Errors
+priors_count_level: medium -> low
+criminal_associates_level: low -> medium
+substance_abuse_level: high -> low
+noncompliance_level: high -> medium
+vocational_level: low -> medium
+family_criminality_importance_level: high -> low

@@ -1,0 +1,4 @@
+# Errors
+family_criminality_level: low -> medium
+substance_abuse_level: high -> medium
+vocational_level: low -> medium

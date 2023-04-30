@@ -1,0 +1,27 @@
+Dylan,
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #2825, you had a COMPAS risk score of 3 on a scale of 1-10. This means you were scored as a low risk for reoffending.
+
+You received this score primarily because you had a medium risk score for non-compliance (4) and a low risk score for substance abuse (3). These were the two most important factors in receiving a low overall risk score.
+
+You also a medium risk score for criminal associates (4). However, this factor only contributed medium importance to the COMPAS algorithm's scoring of your overall risk.
+
+The remaining risk factors including social environment (4), prior offenses (1), vocational risk (5), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+
+# Corrections
+ - Line 5: Fixed id: 2868 -> 2825
+ - Line 5: Fixed the decile_score: 4 -> 3
+ - Line 7: Fixed the noncompliance_level: high -> medium
+ - Line 9: Fixed juv_fel_count_importance_level: medium -> low
+ - Line 11: Fixed priors_count: 0 -> 1
+ 
+

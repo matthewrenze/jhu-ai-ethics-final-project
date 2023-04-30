@@ -1,0 +1,19 @@
+Monique,
+
+Thank you for sharing your case record for our review. 
+
+Regarding your case record #5436, you had a COMPAS risk score of 2 on a scale of 1-10. This means you were scored as a low risk for reoffending.
+
+You received this score primarily because you had a low risk score for noncompliance (3), a low risk score for substance abuse (2), and a high risk score for criminal associates (6). These were the three most important factors in receiving a low overall risk score.
+
+You also had no medium importance risk factors. 
+
+The remaining risk factors including vocational risk factors (9), number of prior offenses (1), and financial problems (6), etc. were of low importance to the COMPAS algorithm's score.
+
+Demographic data including age, sex, race, etc., were not included in the algorithm's decision because they are protected by law.
+
+Please let us know if you have any questions or concerns.
+
+Sincerely,
+Explainable AI
+

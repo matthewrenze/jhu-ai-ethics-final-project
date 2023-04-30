@@ -1,0 +1,45 @@
+# Case Info
+id: 10969
+name: eric sparks
+decile_score: 3
+decile_score_level: low
+
+# Features
+priors_count: 2
+c_charge_degree: M
+juv_fel_count: 0
+family_criminality: 5
+criminal_attitude: 5
+criminal_associates: 5
+financial_problems: 7
+substance_abuse: 3
+noncompliance: 5
+social_environment: 3
+vocational: 5
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level: low
+juv_fel_count_level: low
+family_criminality_level: medium
+criminal_attitude_level: medium
+criminal_associates_level: medium
+financial_problems_level: high
+substance_abuse_level: low
+noncompliance_level: medium
+social_environment_level: low
+vocational_level: medium
+
+# Feature Importance Levels
+substance_abuse_importance_level: high
+noncompliance_importance_level: high
+financial_problems_importance_level: low
+criminal_associates_importance_level: low
+social_environment_importance_level: low
+priors_count_importance_level: low
+vocational_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+criminal_attitude_importance_level: low
+

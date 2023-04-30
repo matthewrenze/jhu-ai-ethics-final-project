@@ -1,0 +1,8 @@
+# Errors
+financial_problems_level: low -> medium
+social_environment_level: low -> high
+vocational_level: low -> medium
+criminal_attitude_importance_level: high -> low
+criminal_associates_importance_level: low -> high
+substance_abuse_importance_level: medium -> low
+noncompliance_importance_level: medium -> high

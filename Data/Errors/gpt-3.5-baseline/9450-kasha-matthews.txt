@@ -1,0 +1,6 @@
+# Errors
+financial_problems_level: low -> medium
+noncompliance_level: low -> medium
+vocational_level: low -> high
+criminal_attitude_importance_level: medium -> low
+noncompliance_importance_level: low -> medium

@@ -1,0 +1,4 @@
+# Errors
+priors_count_level: medium -> high
+vocational_level: low -> medium
+criminal_attitude_importance_level: high -> low

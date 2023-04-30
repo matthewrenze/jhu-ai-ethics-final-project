@@ -1,0 +1,44 @@
+# Case Info
+id: 8802
+name: shawanna
+decile_score: 8
+decile_score_level: high
+
+# Features
+priors_count:
+c_charge_degree:
+juv_fel_count:
+family_criminality:
+criminal_attitude: 6
+criminal_associates: 7
+financial_problems: 7
+substance_abuse: 7
+noncompliance: 6
+social_environment: 6
+vocational: 8
+
+# Feature Levels
+priors_count_level:
+c_charge_degree_level:
+juv_fel_count_level:
+family_criminality_level:
+criminal_attitude_level: high
+criminal_associates_level: high
+financial_problems_level: high
+substance_abuse_level: high
+noncompliance_level: high
+social_environment_level: high
+vocational_level: high
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+substance_abuse_importance_level: high
+criminal_associates_importance_level: high
+criminal_attitude_importance_level: medium
+financial_problems_importance_level: low
+social_environment_importance_level: low
+priors_count_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+vocational_importance_level: low

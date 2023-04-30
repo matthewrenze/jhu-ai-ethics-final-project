@@ -1,0 +1,4 @@
+# Errors
+family_criminality_level: low -> medium
+social_environment_level: medium -> high
+vocational_level: low -> medium

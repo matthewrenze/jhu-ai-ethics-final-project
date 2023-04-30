@@ -1,0 +1,4 @@
+# Errors
+priors_count_level: medium -> low
+substance_abuse_level: medium -> high
+vocational_level: medium -> high

@@ -1,0 +1,5 @@
+# Errors
+financial_problems_level: low -> medium
+noncompliance_level: high -> medium
+vocational_level: low -> medium
+family_criminality_importance_level: medium -> low

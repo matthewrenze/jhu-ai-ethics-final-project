@@ -1,0 +1,7 @@
+# Errors
+family_criminality_level: medium -> high
+criminal_associates_level: low -> medium
+substance_abuse_level: medium -> high
+social_environment_level: low -> medium
+vocational_level: low -> high
+family_criminality_importance_level: medium -> low

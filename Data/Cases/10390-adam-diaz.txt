@@ -1,0 +1,45 @@
+# Case Info
+id: 10390
+name: adam diaz
+decile_score: 4
+decile_score_level: medium
+
+# Features
+priors_count: 3
+c_charge_degree: F
+juv_fel_count: 0
+family_criminality: 4
+criminal_attitude: 7
+criminal_associates: 3
+financial_problems: 4
+substance_abuse: 5
+noncompliance: 4
+social_environment: 5
+vocational: 3
+
+# Feature Levels
+priors_count_level: low
+c_charge_degree_level: high
+juv_fel_count_level: low
+family_criminality_level: medium
+criminal_attitude_level: high
+criminal_associates_level: low
+financial_problems_level: medium
+substance_abuse_level: medium
+noncompliance_level: medium
+social_environment_level: medium
+vocational_level: low
+
+# Feature Importance Levels
+noncompliance_importance_level: high
+criminal_associates_importance_level: medium
+substance_abuse_importance_level: low
+vocational_importance_level: low
+financial_problems_importance_level: low
+priors_count_importance_level: low
+social_environment_importance_level: low
+c_charge_degree_importance_level: low
+juv_fel_count_importance_level: low
+family_criminality_importance_level: low
+criminal_attitude_importance_level: low
+
