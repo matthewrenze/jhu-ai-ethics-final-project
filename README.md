@@ -11,8 +11,9 @@ First, a dataset was created from a modified version of the COMPAS database and 
 
 GPT-4 with self-correction outperformed all other GPT models in terms of factual accuracy. However, it underperformed relative to GPT-3.5 in terms of runtime performance and cost efficiency. This research demonstrates the potential of using GPTs to create more trustworthy AI, highlighting areas of further investigation and improvement.
 
-## Paper
-- [Natural Language Explanations for Explainable AI Systems using Large Language Models with Self-correcting Architectures](research-paper.pdf)
+## Documents
+- [Research paper](research-paper.pdf)
+- [Presentation](presentation.pdf)
 
 ## Code
 - [Prepare](Code/Prepare/) - contains the data pre-processing scripts
