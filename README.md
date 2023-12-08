@@ -29,11 +29,11 @@ GPT-4 with self-correction outperformed all other GPT models in terms of factual
 - [Templates](Data/Templates/) - contains templates for rule- and GPT-based tasks
 - [Examples](Data/Examples/) - contains the few-shot learning examples
 - [Cases](Data/Cases/) - contains the plain-text case records
-- [Explainations](Data/Explanations/) - contains the generated explainations
-- [Verifications](Data/Verifications/) - contains the verifications for each explaination
+- [Explainations](Data/Explanations/) - contains the generated explanations
+- [Verifications](Data/Verifications/) - contains the verifications for each explanation
 - [Errors](Data/Errors) - contains the factual error identified in each verification
-- [Corrections](Data/Corrections/) - contains the corrected explainations
-- [Results](Data/Results/) - contains the results of the model evalaluation
+- [Corrections](Data/Corrections/) - contains the corrected explanations
+- [Results](Data/Results/) - contains the results of the model evaluation
 
 ## Analysis
 - [CSV](Analysis/CSV/) - contains analysis output in tabular form
